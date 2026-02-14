@@ -10,4 +10,4 @@ for how to use `build_runner` builders in your package to add serialization,
 data classes, data binding, dependency injection, mocking and more.
 
 See the [build package documentation](https://pub.dev/packages/build) to create
-your own builder.
+your own builder..
